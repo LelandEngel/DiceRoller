@@ -1,1 +1,2 @@
-# DiceRoller
+Leland Engel
+Web Dice Roller
